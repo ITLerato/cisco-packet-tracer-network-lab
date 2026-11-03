@@ -79,3 +79,20 @@ Author: ITLerato
 Field: Cybersecurity and Network Security
 
 Tool: Cisco Packet Tracer
+💻 Technologies & Tools
+
+🌐 Networking: Cisco Packet Tracer, TCP/IP, IPv4
+
+🔐 Cybersecurity: Network Security, Risk Management, Incident Response
+
+☁️ Cloud: Microsoft Azure Fundamentals
+
+🛡️ Microsoft Security: Microsoft Entra ID, Microsoft Defender, Microsoft Sentinel
+
+🔎 Network Analysis: Wireshark
+
+💻 Operating Systems: Windows 11
+
+📂 Featured Projects
+
+Cisco Packet Tracer – Network Configuration and Connectivity Testing
